@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opc-ua-nodeset-compatibility-gate": {
+      "type": "http",
+      "url": "https://nodeset.regevidencehub.com/mcp"
+    }
+  }
+}
