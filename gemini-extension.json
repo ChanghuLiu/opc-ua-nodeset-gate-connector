@@ -1,0 +1,10 @@
+{
+  "name": "opc-ua-nodeset-gate-connector",
+  "version": "1.0.0",
+  "description": "Deterministic release-compatibility preflight for OPC UA NodeSet2 XML revisions.",
+  "mcpServers": {
+    "opc-ua-nodeset-compatibility-gate": {
+      "httpUrl": "https://nodeset.regevidencehub.com/mcp"
+    }
+  }
+}
